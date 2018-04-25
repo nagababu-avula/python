@@ -14,11 +14,8 @@ class CreateList:
             n = Node(data)
             head = n
         else:               
-            head = self.reverse(head)           
-            n = Node(data)
-            n.next = head
-            head = n        
-            head = self.reverse(head)
+            t = self.insert(head.next, data)
+            head.next = t
         return head
     
     def reverse(self,head):
