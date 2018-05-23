@@ -6,3 +6,6 @@ print ("Hello, World!")
 
 # Let us print 'Hello, World!'
 print ("Hello, World!")
+
+# print in new line
+print ("\n Hello, World!")
