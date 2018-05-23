@@ -8,3 +8,5 @@ print('Data type of z is:'+ type(z)) #check data type
 
 #entered data treated as string with or without ''
 
+# Waiting for the User
+input("\n Press any key to exit.")
