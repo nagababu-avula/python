@@ -1,6 +1,3 @@
-#A hash sign (#) that is not inside a string literal is the beginning of a comment. 
-#All characters after the #, up to the end of the physical line, are part of the comment 
-#and the Python interpreter ignores them.
 
 x = input()
 
