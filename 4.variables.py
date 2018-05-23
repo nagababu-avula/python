@@ -1,5 +1,5 @@
-num = 100          # An integer assignment
-deci   = 1000.0       # A floating point
+num = 99          # An integer assignment
+deci   = 99.99       # A floating point
 name    = "Naaga"       # A string
 
 print (num)
@@ -10,6 +10,6 @@ print (name)
 a = b = c = 1
 print (a+b+c)
 
-a, b, c = 1, 2, "john"
+a, b, c = 1, 2, "Naaga"
 
 print(a, b, c )
