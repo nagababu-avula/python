@@ -1,0 +1,13 @@
+#A hash sign (#) that is not inside a string literal is the beginning of a comment. 
+#All characters after the #, up to the end of the physical line, are part of the comment 
+#and the Python interpreter ignores them.
+
+x = input()
+
+y = input('Enter something with '':')  #Example '234'
+print('Data type of y is:'+ type(y)) #check data type
+z = input('Enter something without '':')  #Example 234
+print('Data type of z is:'+ type(z)) #check data type
+
+#entered data treated as string with or without ''
+
