@@ -13,5 +13,16 @@ print('c = ',c)
 c += 1
 print('c += 'c)
 
+# Here I want to add more about assignment operators
+# '=' assigns
+# '+=' example c+=1 nothing but c = c + 1 or c+=a is c=c+a
+# '-=' example c-=1 nothing but c = c - 1 or c-=a is c=c-a
+# '*=' example c*=1 nothing but c = c * 1 or c*=a is c=c*a
+# '/=' example c/=1 nothing but c = c / 1 or c/=a is c=c/a
+# '%=' example c%=1 nothing but c = c % 1 or c%=a is c=c%a
+# '**=' example c**=1 nothing but c = c ** 1 or c**=a is c=c**a
+
+
+
 
 
