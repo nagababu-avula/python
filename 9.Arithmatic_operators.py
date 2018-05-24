@@ -1,5 +1,5 @@
-a = int(input('Enter value for a': ))
-b = int(input('Enter value for b': ))
+a = int(input('Enter a value for a': )) #enter a number
+b = int(input('Enter a value for b': )) #enter a number
 print('a+b = ', a+b)
 print('a-b = ', a-b)
 print('a*b = ', a*b)
