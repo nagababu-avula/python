@@ -10,5 +10,14 @@ if a==b:
 elif a>b:
    print('a is greater than b.')   
 else:
-   print('a is less than b.')   
+   print('a is less than b.')  
+   
+# Here I want to add more about logical operators
+#  '==' equals
+#  '!=' not equals
+#  '>' greater than
+#  '<' less than
+#  '>=' greterthan equal to
+#  '<=' lessthan equal to
+
         
