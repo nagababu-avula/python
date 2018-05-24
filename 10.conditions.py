@@ -1,6 +1,6 @@
 
-a = int(input('Enter value for a': ))
-b = int(input('Enter value for b': ))
+a = int(input('Enter value for a': )) #enter a number
+b = int(input('Enter value for b': )) #enter a number
 
 if a==b:
    print('a is equal to b.')
