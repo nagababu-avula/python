@@ -25,3 +25,4 @@ print("max(a,b) : ", max(a,b))
 
 print("random() :", random())
 
+# Trigonometric Functions
