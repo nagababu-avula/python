@@ -7,6 +7,7 @@ while a < 10:
 
 lst = [5, 4, 8, 1, 7, 2]
 l = 6
+print(lst)
 # To sort the list
 for i in range(6):
   for j in range(6):
@@ -15,6 +16,7 @@ for i in range(6):
       lst[i] = lst[j]
       lst[j] = x
       
+print(lst)
       
       
       
