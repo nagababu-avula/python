@@ -2,7 +2,7 @@
 def sayhi():
   print("Hi, Everybody.")
 
-for i in range(10)
+for i in range(10):
   sayhi()
 
 
@@ -33,6 +33,8 @@ a = 2
 b = 3
 c = multiply(a, b)
 print("Multiplication : ", c)
+
+# Create a code for division by argument passing by reference
 
 
 
