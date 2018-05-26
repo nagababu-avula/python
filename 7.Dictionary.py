@@ -14,3 +14,15 @@ print (dict[9])           # Prints value for 9 key
 print (dict2)             # Prints complete dictionary
 print (dict2.keys())   # Prints all the keys
 print (dict2.values()) # Prints all the values
+
+#update dictionary
+dict['abc'] ="This is updated"
+
+del dict[9]
+
+dict.clear()
+
+del dict
+
+
+
