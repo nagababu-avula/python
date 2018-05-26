@@ -22,4 +22,4 @@ print(lst.reverse())
 #sorting, reverse are not possible as tuples can not be updated.
 
 
-
+len(dict)
