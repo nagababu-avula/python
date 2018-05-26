@@ -4,7 +4,7 @@ lst = [1, 3, 5, 'naaga',3, 'Hi', 15.345]
 print(lst)
 print(lst[2])
 print(lst[-2])
-print(length(lst)) #max, min
+print(len(lst)) #max, min
 
 lst.append('hello')
 print(lst)
@@ -17,4 +17,9 @@ print(lst)
 print(lst.sort())
 
 print(lst.reverse())
+
+#in tuples you can use len, max, min is possible
+#sorting, reverse are not possible as tuples can not be updated.
+
+
 
