@@ -37,5 +37,13 @@ lst = [2, 3, 4]
 modify(lst)
 print("Updated List : ", lst)
 
+#Default arguments
+def sub(a, b=3):
+  return a-b
+
+sub(7, 2)
+sub(9)
+
+
 
 
