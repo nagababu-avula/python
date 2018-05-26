@@ -16,3 +16,10 @@ print (tuple1[1:3])      # Prints elements starting from 2nd till 3rd
 print (tuple1[2:])       # Prints elements starting from 3rd element
 print (tuple2 * 2)       # Prints tuple two times
 print (tuple1 + tuple2)  # Prints concatenated tuple
+
+# updating tuple like list is not possible
+
+tuble1[2] = 234 # error occurs
+# deleting one item from tuple also not possible
+del tuple2 #you can delete complete tuple
+
