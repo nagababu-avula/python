@@ -5,10 +5,18 @@ def sayhi():
 sayhi()
 
 
-# Arguments passing
-def add(a,b):
-  c = a + b
-  print("Addition : ", c)
+# Arguments passing by value
+def add(x, y):
+  z = x + y
+  print("Addition : ", z)
+  
+add(2, 3)
+
+
+# Arguments passing by reference
+def add(x, y):
+  z = x + y
+  print("Addition : ", z)
   
 a = 2
 b = 3
