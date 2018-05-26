@@ -1,6 +1,6 @@
 
 # Updating Lists
-lst = [1, 3, 5, 'naaga',3, 'Hi', 15.345]
+lst = [1, 3, 5, 'naaga', 3, 'Hi', 15.345]
 print(lst)
 print(lst[2])
 print(lst[-2])
@@ -26,7 +26,16 @@ dict['abc'] = "This is abc"
 dict['xyz'] = "This is xyz"
 dict[9] = "number 9"
 len(dict)
+print(len(dict))
+str(dict) # Produces a printable string representation of a dictionary
+print(str(dict))
 
-str(dict)
+dict2 = {}
+dict2['naaga'] = "I am Naaga"
+
+dict.update(dict2) #Adds dictionary dict2's key-values pairs to dict
+
+
+
 
 
