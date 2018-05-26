@@ -20,4 +20,10 @@ print (list1[2:])      # Prints elements starting from 3rd element
 print (list1 * 2)  # Prints list two times
 print (list1 + list2) # Prints concatenated lists
 
+print(list2)
+list2[2] = 4.34
+print(list2)
+
+del list2[3]
+print(list2)
 
