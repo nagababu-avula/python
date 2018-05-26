@@ -1,10 +1,11 @@
 class Student:
   count = 0  # Class variable
-  dept = ''
   
   def __init__(self, sid, sname):
     self.id = sid
     self.name = sname
+    self.dept = ''
+   
     Student.count += 1
   
   def disp(self):
