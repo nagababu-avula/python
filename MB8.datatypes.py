@@ -21,5 +21,12 @@ print(lst.reverse())
 #in tuples you can use len, max, min is possible
 #sorting, reverse are not possible as tuples can not be updated.
 
-
+dict = {}
+dict['abc'] = "This is abc"
+dict['xyz'] = "This is xyz"
+dict[9] = "number 9"
 len(dict)
+
+str(dict)
+
+
