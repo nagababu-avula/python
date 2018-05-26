@@ -1,5 +1,5 @@
 class Student:
-  count = 0
+  count = 0  # Class variable
   dept = ''
   
   def __init__(self, sid, sname):
