@@ -1,8 +1,9 @@
-# Call a function
+# Call a function to seperate a block of code for particular task / for repetitive task
 def sayhi():
   print("Hi, Everybody.")
 
-sayhi()
+for i in range(10)
+  sayhi()
 
 
 # Arguments passing by value
