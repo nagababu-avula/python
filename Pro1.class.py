@@ -1,3 +1,13 @@
+
+Class Student:
+  pass
+
+s1 = student()
+
+
+
+
+
 class Student:
   count = 0  # Class variable
   
